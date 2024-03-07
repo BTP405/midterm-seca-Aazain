@@ -33,7 +33,7 @@ class Project:
         self.description = description
         self.start_date = start_date
         self.end_date = end_date
-        self.
+        self.employees = [10]
 
     def assign_employee(self, employee):
         """
